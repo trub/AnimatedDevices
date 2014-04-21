@@ -1,4 +1,3 @@
-AnimatedDevices
-===============
+#Animated Devices that are Responsive
 
-Animated Devices that are responsive
+Enjoy :)
